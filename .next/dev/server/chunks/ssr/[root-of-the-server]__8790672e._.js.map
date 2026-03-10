@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/boypa/Documents/pos%2Bsystem/pos_system1/src/app/checkout/page.tsx"],"sourcesContent":["export default function CheckoutPage() {\n  return (\n    <div className=\"p-6 space-y-6\">\n      <h1 className=\"text-2xl font-bold text-gray-900\">Daily Transactions</h1>\n      <div className=\"bg-gray-50 p-6 text-center text-gray-600 rounded-lg\">\n        Select a cart from POS to checkout\n      </div>\n    </div>\n  )\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,2RAAC;QAAI,WAAU;;0BACb,2RAAC;gBAAG,WAAU;0BAAmC;;;;;;0BACjD,2RAAC;gBAAI,WAAU;0BAAsD;;;;;;;;;;;;AAK3E"}}]
+}

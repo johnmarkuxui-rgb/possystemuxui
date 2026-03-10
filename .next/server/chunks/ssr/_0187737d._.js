@@ -1,0 +1,3 @@
+module.exports=[50645,a=>{a.n(a.i(27572))},43619,a=>{a.n(a.i(79962))},13718,a=>{a.n(a.i(85523))},18198,a=>{a.n(a.i(45518))},62212,a=>{a.n(a.i(66114))},17122,a=>{"use strict";var b=a.i(7997);function c(){return(0,b.jsxs)("div",{className:"p-6 space-y-6",children:[(0,b.jsx)("h1",{className:"text-2xl font-bold text-gray-900",children:"Daily Transactions"}),(0,b.jsx)("div",{className:"bg-gray-50 p-6 text-center text-gray-600 rounded-lg",children:"Select a cart from POS to checkout"})]})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=_0187737d._.js.map

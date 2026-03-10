@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+:root {
+  --bg-primary: #ffffff;
+  --bg-card: #ffffff;
+  --accent-primary: #2563eb;
+  --border-subtle: #f1f5f9;
+  --text-primary: #000000;
+  --text-secondary: #64748b;
+  --text-muted: #94a3b8;
+  --neumorphic-light: #ffffff;
+  --neumorphic-dark: #e2e8f0;
+}
+
+* {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+html {
+  background-color: var(--bg-primary);
+}
+
+body {
+  color: var(--text-primary);
+  background-color: var(--bg-primary);
+}
+
+/* Neumorphic Styles */
+.neumorphic {
+  background: var(--neumorphic-light);
+  border-radius: 12px;
+  box-shadow: 
+    8px 8px 16px var(--neumorphic-dark),
+    -8px -8px 16px var(--neumorphic-light);
+}
+
+.neumorphic-inset {
+  background: var(--neumorphic-light);
+  border-radius: 12px;
+  box-shadow: 
+    inset 4px 4px 8px var(--neumorphic-dark),
+    inset -4px -4px 8px var(--neumorphic-light);
+}
+
+.neumorphic-flat {
+  background: var(--neumorphic-light);
+  border-radius: 12px;
+  box-shadow: 
+    4px 4px 8px var(--neumorphic-dark),
+    -4px -4px 8px var(--neumorphic-light);
+}
+
+.neumorphic-pressed {
+  background: var(--neumorphic-light);
+  border-radius: 12px;
+  box-shadow: 
+    inset 2px 2px 4px var(--neumorphic-dark),
+    inset -2px -2px 4px var(--neumorphic-light);
+}
+
+.bg-primary {
+  background-color: var(--bg-primary);
+}
+
+.bg-card {
+  background-color: var(--bg-card);
+}
+
+.border-subtle {
+  border-color: var(--border-subtle);
+}
+
+.text-primary {
+  color: var(--text-primary);
+}
+
+.text-secondary {
+  color: var(--text-secondary);
+}
+
+.text-muted {
+  color: var(--text-muted);
+}
+
+.bg-accent {
+  background-color: var(--accent-primary);
+}
+
+.text-accent {
+  color: var(--accent-primary);
+}

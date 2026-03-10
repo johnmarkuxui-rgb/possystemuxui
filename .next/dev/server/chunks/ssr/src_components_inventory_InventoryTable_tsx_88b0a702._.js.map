@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/boypa/Documents/pos%2Bsystem/pos_system1/src/components/inventory/InventoryTable.tsx"],"sourcesContent":["'use client'\nimport { useState } from 'react'\n\nexport function InventoryTable() {\n  return (\n    <div className=\"neumorphic p-6\">\n      <h2 className=\"text-lg font-semibold text-primary mb-6\">Inventory</h2>\n      <div className=\"text-center text-secondary py-12\">\n        No inventory data available\n      </div>\n    </div>\n  )\n}"],"names":[],"mappings":";;;;;AAAA;;AAGO,SAAS;IACd,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC;gBAAG,WAAU;0BAA0C;;;;;;0BACxD,8OAAC;gBAAI,WAAU;0BAAmC;;;;;;;;;;;;AAKxD"}}]
+}

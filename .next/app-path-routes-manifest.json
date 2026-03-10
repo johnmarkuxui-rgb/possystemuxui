@@ -1,0 +1,10 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/checkout/page": "/checkout",
+  "/inventory/page": "/inventory",
+  "/page": "/",
+  "/pos/page": "/pos",
+  "/products/page": "/products",
+  "/sales/page": "/sales"
+}
