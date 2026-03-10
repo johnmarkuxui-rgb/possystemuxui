@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layout-dashboard.svg" width="35" height="35" /> Enterprise POS & Inventory System
+# <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layout-dashboard.svg?color=ffffff" width="35" height="35" /> Enterprise POS & Inventory System
 
 A high-performance, **logic-first** Point of Sale and Inventory Management System. This project showcases a pixel-perfect UI/UX with modern aesthetics, optimized for efficiency and real-world business workflows.
 
@@ -16,17 +16,17 @@ A high-performance, **logic-first** Point of Sale and Inventory Management Syste
 
 ---
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/sparkles.svg" width="25" height="25" /> Key Features
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/sparkles.svg?color=ffffff" width="25" height="25" /> Key Features
 
-* **<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/package-search.svg" width="18" height="18" /> Real-time Inventory:** Dynamic stock monitoring and management with instant updates.
-* **<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/shield-check.svg" width="18" height="18" /> Manager Authorization:** Secure terminal access with multi-level administrative overrides.
-* **<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/banknote.svg" width="18" height="18" /> Localized Pricing:** Optimized for **₱ PHP (Philippine Peso)** currency and local business tax logic.
-* **<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/database-zap.svg" width="18" height="18" /> Offline-First Persistence:** Zero-latency data handling utilizing local persistence for maximum speed.
-* **<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/monitor-smartphone.svg" width="18" height="18" /> Responsive Design:** Fully adaptive UI/UX for both desktop terminals and mobile devices.
+* **<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/package-search.svg?color=ffffff" width="18" height="18" /> Real-time Inventory:** Dynamic stock monitoring and management with instant updates.
+* **<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/shield-check.svg?color=ffffff" width="18" height="18" /> Manager Authorization:** Secure terminal access with multi-level administrative overrides.
+* **<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/banknote.svg?color=ffffff" width="18" height="18" /> Localized Pricing:** Optimized for **₱ PHP (Philippine Peso)** currency and local business tax logic.
+* **<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/database-zap.svg?color=ffffff" width="18" height="18" /> Offline-First Persistence:** Zero-latency data handling utilizing local persistence for maximum speed.
+* **<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/monitor-smartphone.svg?color=ffffff" width="18" height="18" /> Responsive Design:** Fully adaptive UI/UX for both desktop terminals and mobile devices.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/git-branch.svg" width="25" height="25" /> CI/CD Workflow
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/git-branch.svg?color=ffffff" width="25" height="25" /> CI/CD Workflow
 
 This project is deployed through a modern automated pipeline to ensure 99.9% uptime and rapid feature delivery:
 1.  **Development:** Local iteration using **Trae IDE** & **Next.js**.
@@ -35,7 +35,7 @@ This project is deployed through a modern automated pipeline to ensure 99.9% upt
 
 ---
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/terminal.svg" width="25" height="25" /> Getting Started
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/terminal.svg?color=ffffff" width="25" height="25" /> Getting Started
 
 ```bash
 # Clone the repository
@@ -46,3 +46,12 @@ npm install
 
 # Run the development server
 npm run dev
+<p align="center">
+Developed with ⚡ by <b>John Mark S. Renon</b>
+
+
+<i>Full-Stack Visual Developer | SaaS Architect | IT Specialist</i>
+</p>
+
+
+-----
